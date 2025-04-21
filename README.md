@@ -10,5 +10,6 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I love experimenting with new tech stacks and exploring innovative AI solutions.
+⚡ Fun fact: I love experimenting with new tech stacks and exploring innovative AI solutions.      
+
 👨‍💻 Currently working on: An exam management app to streamline exam scheduling and tracking.
